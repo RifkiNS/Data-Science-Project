@@ -1,0 +1,80 @@
+SalePrice - harga jual properti dalam dolar. Ini adalah variabel target yang ingin Anda prediksi.
+MSSubClass: Kelas bangunan
+MSZoning: Klasifikasi zonasi umum
+LotFrontage: Panjang linear jalan yang terhubung ke properti
+LotArea: Ukuran kavling dalam kaki persegi
+Street: Jenis akses jalan
+Alley : Jenis akses gang
+LotShape: Bentuk umum properti
+LandContour: Kemiringan tanah dari properti
+Utilitas: Jenis utilitas yang tersedia
+LotConfig: Konfigurasi lahan
+LandSlope: Kemiringan tanah
+Neighborhood: Lokasi fisik di dalam batas kota Ames
+Kondisi1: Kedekatan dengan jalan utama atau rel kereta api
+Kondisi2: Kedekatan dengan jalan utama atau rel kereta api (jika ada)
+Jenis Bangunan: Jenis tempat tinggal
+HouseStyle: Gaya tempat tinggal
+OverallQual: Kualitas material dan hasil akhir secara keseluruhan
+OverallCond: Peringkat kondisi secara keseluruhan
+YearBuilt: Tanggal konstruksi asli
+YearRemodAdd: Tanggal renovasi ulang
+RoofStyle: Jenis atap
+RootMatl: Bahan atap: Bahan atap
+Eksterior1: Penutup eksterior pada rumah
+Eksterior2: Penutup eksterior pada rumah (jika lebih dari satu bahan)
+MasVnrType: Jenis veneer batu bata
+MasVnrArea: Area veneer batu dalam kaki persegi
+ExterQual: Kualitas bahan eksterior
+ExterCond: Kondisi material saat ini di bagian eksterior
+Fondasi Jenis pondasi
+BsmtQual: Ketinggian ruang bawah tanah
+BsmtCond: Kondisi umum ruang bawah tanah
+BsmtExposure: Dinding ruang bawah tanah di luar ruangan atau taman
+BsmtFinType1: Kualitas area akhir ruang bawah tanah
+BsmtFinSF1: Tipe 1 kaki persegi yang sudah jadi
+BsmtFinType2: Kualitas area jadi kedua (jika ada)
+BsmtFinSF2: Tipe 2 kaki persegi jadi
+BsmtUnfSF: Luas area ruang bawah tanah yang belum selesai
+TotalBsmtSF: Total kaki persegi area ruang bawah tanah
+Pemanasan Jenis pemanas
+HeatingQC: Kualitas dan kondisi pemanas
+CentralAir: Pendingin udara sentral
+Listrik: Sistem kelistrikan
+1stFlrSF: Lantai Pertama kaki persegi
+2ndFlrSF: Lantai dua meter persegi
+LowQualFinSF: Luas lantai akhir berkualitas rendah (semua lantai)
+GrLivArea: Luas ruang tamu di atas lantai dasar (tanah) dalam kaki persegi
+BsmtFullBath: Kamar mandi lengkap di ruang bawah tanah
+BsmtHalfBath: Kamar mandi setengah di ruang bawah tanah
+Kamar mandi penuh: Kamar mandi lengkap di atas lantai dasar
+HalfBath: Setengah kamar mandi di atas lantai dasar
+Kamar tidur Jumlah kamar tidur di atas lantai dasar
+Dapur Jumlah dapur
+Kualitas dapur: Kualitas dapur
+TotRmsAbvGrd: Total ruangan di atas lantai dasar (tidak termasuk kamar mandi)
+Fungsional: Peringkat fungsionalitas rumah
+Perapian: Jumlah perapian
+FireplaceQu: Kualitas perapian
+GarageType: Lokasi garasi
+GarageYrBlt: Tahun garasi dibangun
+GarageFinish: Hasil akhir interior garasi
+GarageCars: Ukuran garasi dalam kapasitas mobil
+GarageArea: Ukuran garasi dalam kaki persegi
+GarageQual: Kualitas garasi
+GarageCond: Kondisi garasi
+PavedDrive: Jalan masuk beraspal
+WoodDeckSF: Luas dek kayu dalam kaki persegi
+OpenPorchSF: Area teras terbuka dalam kaki persegi
+EnclosedProch: Area teras tertutup dalam kaki persegi
+3SsnPorch: Area teras tiga musim dalam kaki persegi
+ScreenPorch: Area beranda layar dalam kaki persegi
+PoolArea: Area kolam renang dalam kaki persegi
+PoolQC: Kualitas kolam renang
+Fence : Kualitas pagar
+MiscFeature: Fitur lain-lain yang tidak tercakup dalam kategori lain
+MiscVal: $Nilai fitur lain-lain
+MoSold: Bulan Terjual
+YrSold: Tahun Terjual
+SaleType: Jenis penjualan
+SaleCondition: Kondisi penjualan
